@@ -15,6 +15,13 @@ assignees: ''
 ### Paste the original task URL
 < enter task requirement>
 
+## Your Solution / Completion README.MD URL
+### Paste the URL of readme.md file that you created in your own account stating the task is complete.
+
+<!-- This content is same from your README.MD file, just copy and paste from your own task's completion repos README.MD -->
+< enter task requirement>
+
+
 ## List of Issues you faced while doing the tasks
 
 - URL Issue 1 (the issues you created while seeking help from DevOps Babar Zahoor Community, this link should get github URL only).
